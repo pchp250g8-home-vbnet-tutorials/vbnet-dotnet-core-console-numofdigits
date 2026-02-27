@@ -1,3 +1,5 @@
+NumOfDigits. VBNet Tutorials. DotNet Core Platform. Simple Input/Output. Algorithms. Console Application. 
+
 A console application project written in the Visual Basic .Net programming language and implemented in the Microsoft Visual Studio integrated environment. The .Net Core platform provides simple input/output. Determining the number of digits in a number entered from the keyboard.
 
 The program does the following:
@@ -11,4 +13,4 @@ a positive value equal in magnitude to the number entered from the keyboard.
   c) The digit counter variable is incremented by one.
 5. The entered number and the number of its digits are displayed on the screen.
 
-Занятия по VB.Net. Платформа DotNet Core. Простой Ввод/Вывод. Алгоритмы. Консольное приложение.
+NumOfDigits. Занятия по VB.Net. Платформа DotNet Core. Простой Ввод/Вывод. Алгоритмы. Консольное приложение.
